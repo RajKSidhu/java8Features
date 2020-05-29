@@ -4,13 +4,13 @@
 Java project illustrating the Java 8 new Features.
 
 ## Requirements
-Used Stream API to Filter and sort the list 
+* Used Stream API to Filter and sort the list 
 
-Showcase effectively final feature of java 8.
+* Showcase effectively final feature of java 8.
 
-Illustrate object as map key having 3 properties to check knowledge of immutability.
+* Illustrate object as map key having 3 properties to check knowledge of immutability.
 
-Illustration of Deadlock scenario.
+* Illustration of Deadlock scenario.
 
 ## Development
 
